@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Dillon Hines</h1>
 
-<!--
-**hinesd/hinesd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Solving problems, from the ground up.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is **scalable cloud-native data systems on GCP** — pipelines, warehouses, event-driven architectures, data catalogs, and agentic systems. Every project is approached with the full scope in mind, from ideation through architecture and deployment, picking up whatever is required along the way. That scope can mean standing up infrastructure, building a full-stack application, designing APIs, enabling data discovery, or modeling data — the throughline is always making data accessible, reliable, and useful.
+
+---
+
+## 🛠️ Stack
+
+| | |
+|---|---|
+| **Cloud & Data** | `GCP` `BigQuery` `GCS` `Cloud Run` `Pub/Sub` `Dataplex` `Airflow` `AWS S3` |
+| **AI & Agents** | `LangGraph` `MCP` `Vertex AI` |
+| **Backend** | `Python` `Django` `DRF` `FastAPI` `PostgreSQL` `MySQL` |
+| **Frontend** | `Next.js` `React` `TypeScript` |
+| **Infrastructure** | `Terraform` `Docker` `GCP Networking` `Load Balancers` |
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-informational?logo=gmail&style=flat-square)](mailto:YOUR_EMAIL)
