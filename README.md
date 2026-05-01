@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-My current focus is **scalable cloud-native data systems on GCP** — pipelines, warehouses, event-driven architectures, data catalogs, and agentic systems. Every project is approached with the full scope in mind, from ideation through architecture and deployment, picking up whatever is required along the way. That scope can mean standing up infrastructure, building a full-stack application, designing APIs, enabling data discovery, or modeling data — the throughline is always making data accessible, reliable, and useful.
+Software Engineer progressing from large-scale data collection and extraction, through BigQuery medallion pipeline architecture on GCP, to designing and delivering an AI-powered enterprise Data Catalog. Built deep expertise across the full data lifecycle — from reverse-engineering web sources and managing distributed collection infrastructure, to architecting Bronze-to-Gold ingestion pipelines and automating client data delivery at warehouse scale. Currently owning end-to-end architecture, security, and delivery of a custom enterprise data catalog — built with LangGraph, FastAPI, and Next.js, secured with a zero-trust BFF, SSO, IAM, and Cloud Armor, and deployable to multi-stage environments via Terraform and GitHub Actions CI/CD.
 </p>
 
 ---
